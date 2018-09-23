@@ -1,1 +1,1 @@
-# clinique
+# clinique-dentaire
